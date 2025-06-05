@@ -3,14 +3,14 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - source
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout source
         uses: actions/checkout@v3
 
       - name: Setup Hugo
@@ -18,12 +18,14 @@ jobs:
         with:
           hugo-version: 'latest'
 
-      - name: Build
+      - name: Build site
         run: hugo --minify
 
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: main
+          # Garante que ficheiros como .nojekyll ou CNAME são preservados
+          keep_files: false
