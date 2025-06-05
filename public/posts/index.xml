@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Henrique Silva</title>
+    <link>https://henrique-vc-silva.github.io/posts/</link>
+    <description>Recent content in Posts on Henrique Silva</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://henrique-vc-silva.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro Post</title>
+      <link>https://henrique-vc-silva.github.io/posts/primeiro-post/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://henrique-vc-silva.github.io/posts/primeiro-post/</guid>
+      <description>&lt;p&gt;Este é o meu primeiro post neste novo site feito com Hugo e o tema PaperMod!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
