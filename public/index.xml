@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Henrique Silva</title>
-    <link>https://henrique-vc-silva.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Henrique Silva</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>pt-pt</language>
     <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://henrique-vc-silva.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5 passos para proteger a tua presença digital</title>
-      <link>https://henrique-vc-silva.github.io/posts/5-passps-seguros/</link>
+      <link>http://localhost:1313/posts/5-passps-seguros/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://henrique-vc-silva.github.io/posts/5-passps-seguros/</guid>
+      <guid>http://localhost:1313/posts/5-passps-seguros/</guid>
       <description>&lt;p&gt;Vivemos grande parte das nossas vidas online — seja a comunicar, a comprar, a trabalhar ou a aprender. No entanto, muitos continuam vulneráveis a ataques simples, apenas por não adotarem medidas básicas de proteção digital.&lt;/p&gt;
 &lt;p&gt;Neste artigo, apresento 5 passos essenciais para qualquer pessoa reforçar a sua cibersegurança pessoal.&lt;/p&gt;
 &lt;hr&gt;
@@ -21,18 +21,18 @@
     </item>
     <item>
       <title>Como a IA está a transformar a forma como trabalhamos</title>
-      <link>https://henrique-vc-silva.github.io/posts/ia-transformar-trabalho/</link>
+      <link>http://localhost:1313/posts/ia-transformar-trabalho/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://henrique-vc-silva.github.io/posts/ia-transformar-trabalho/</guid>
+      <guid>http://localhost:1313/posts/ia-transformar-trabalho/</guid>
       <description>&lt;p&gt;Vivemos um momento histórico em que a Inteligência Artificial (IA) deixou de ser uma promessa distante para se tornar parte integrante do nosso dia a dia. Ferramentas como o &lt;strong&gt;ChatGPT&lt;/strong&gt;, o &lt;strong&gt;GitHub Copilot&lt;/strong&gt;, o &lt;strong&gt;Notion AI&lt;/strong&gt;, entre outras, estão a revolucionar a forma como aprendemos, trabalhamos e comunicamos.&lt;/p&gt;
 &lt;h2 id=&#34;-o-que-mudou-com-a-ia&#34;&gt;🚀 O que mudou com a IA?&lt;/h2&gt;
 &lt;p&gt;Há poucos anos, tarefas como escrever um artigo, programar uma função ou preparar um resumo exigiam esforço humano direto. Hoje, com a ajuda de IA generativa, conseguimos:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sobre</title>
-      <link>https://henrique-vc-silva.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://henrique-vc-silva.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Sou Henrique Silva, engenheiro informático, analítico, criativo e orientado por propósito. Valorizo ambientes onde a qualidade, a integridade e a autenticidade são pilares essenciais. Acredito que a melhor forma de crescer é através do conhecimento, da introspeção e da ligação verdadeira com os outros.&lt;/p&gt;</description>
     </item>
   </channel>
